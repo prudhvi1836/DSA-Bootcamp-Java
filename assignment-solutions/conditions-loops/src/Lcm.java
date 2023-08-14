@@ -1,7 +1,7 @@
 public class Lcm {
     public static void main(String[] args) {
         int n1 = 2;
-        int n2 =3;
+        int n2 =4;
         int min =n1;
         if(n2<n1){
             min =n2;

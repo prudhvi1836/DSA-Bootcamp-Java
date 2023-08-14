@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d87287e-0f1f-4bcc-a441-9eb163c0ab5e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/abc/abc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditions-loops/conditions-loops.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditions-loops/src/Lcm.java" beforeDir="false" afterPath="$PROJECT_DIR$/conditions-loops/src/Lcm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditions-loops/src/greatestNumberUntilEnterZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/conditions-loops/src/greatestNumberUntilEnterZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-java-solutions/src/AaHexawareCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/first-java-solutions/src/AaHexawareCode.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2M8alYXEMkevPmswaruTnXMoKdP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/prudhvi/Documents/DSA-Bootcamp-Java/assignment-solutions"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d87287e-0f1f-4bcc-a441-9eb163c0ab5e" name="Changes" comment="" />
+      <created>1677151815033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677151815033</updated>
+    </task>
+    <servers />
+  </component>
+</project>

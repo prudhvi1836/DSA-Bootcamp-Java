@@ -13,6 +13,6 @@ public class greatestNumberUntilEnterZero {
                 max=number;
             }
         }
-        System.out.println("The maximum number entered is "+max);
+        System.out.println("The maximum number entered until now is :"+max);
     }
 }

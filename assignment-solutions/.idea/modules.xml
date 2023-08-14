@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/abc/abc.iml" filepath="$PROJECT_DIR$/abc/abc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/assignment-solutions.iml" filepath="$PROJECT_DIR$/.idea/assignment-solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditions-loops/conditions-loops.iml" filepath="$PROJECT_DIR$/conditions-loops/conditions-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-java-solutions/first-java-solutions.iml" filepath="$PROJECT_DIR$/first-java-solutions/first-java-solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functions-Assignment-solutions/functions-Assignment-solutions.iml" filepath="$PROJECT_DIR$/functions-Assignment-solutions/functions-Assignment-solutions.iml" />
+    </modules>
+  </component>
+</project>

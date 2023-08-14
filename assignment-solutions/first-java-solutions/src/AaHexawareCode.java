@@ -4,8 +4,8 @@ public class AaHexawareCode {
         int smallZ= 'z';
         int diff = smallZ-capZ;
 
-        for (int i = 'A' ; i<='z' ; i+=32){
-            System.out.print(i+" ");
+        for (int i = 'A' ; i<='z' ; i++){
+            System.out.print(i+" "+i+32);
         }
 
 
